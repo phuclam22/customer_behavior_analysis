@@ -1,4 +1,4 @@
-# 📊 Retail Customer Behavior Analytics: End-to-End Data Pipeline
+# Retail Customer Behavior Analytics: End-to-End Data Pipeline
 
 This project simulates an enterprise-grade data analytics workflow—from raw data extraction (ETL) and exploratory data analysis (EDA) to SQL-based modeling, data visualization, and strategic business recommendations.
 
